@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Welcome to the Adventure Game"
+echo "Welcome to the Ultimate Adventure Game"
 echo "Choose a location to explore, the forest, castle or cave."
 read location
 
